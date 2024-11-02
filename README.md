@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**SaraameliaB/SaraameliaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm Sara Bilic, a 19-year-old cyber security student at Howest in Bruges. I’m passionate about tech, coding, and exploring the intricacies of web security. Here’s a little more about me:
 
-Here are some ideas to get you started:
+### 🌟 About Me:
+- **😄 Pronouns**: She/her
+- **🎓 Studying**: Bachelor in Cyber Security at Howest, Bruges
+- **💻 Coding Enthusiast**: Proficient in Java, Python, C#, PHP, general web development, and Vue.js.
+- **🔒 Web Security Fanatic**: I enjoy diving into web pentesting, reverse engineering, and all things related to cybersecurity.
+- **🎮 Gamer**: I love to unwind with some gaming.
+- **🏋️ Fitness Lover**: The gym is where I find balance and strength.
+- **🐾 Dog Mom**: Proud owner of an adorable chow chow.
+- **🚗 Car Aficionado**: Nothing beats the thrill of a great car.
+- **🦋 Social Butterfly**: I thrive on connecting and sharing good vibes with others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack:
+- **Languages**: Java, Python, C#, PHP
+- **Frameworks & Tools**: Vue.js, general web development technologies
+- **Cyber Security Focus**: Web pentesting, reverse engineering, and vulnerability analysis
+
