@@ -5,7 +5,7 @@ Hey there! I'm Sara Bilic, a 19-year-old cyber security student at Howest in Bru
 ### 🌟 About Me:
 - **😄 Pronouns**: She/her
 - **🎓 Studying**: Bachelor in Cyber Security at Howest, Bruges
-- **💻 Coding Enthusiast**: Proficient in Java, Python, C#, PHP, general web development, and Vue.js.
+- **💻 Coding Enthusiast**: Proficient in Java, Python, C#, PHP, general web development and overall scripting
 - **🔒 Web Security Fanatic**: I enjoy diving into web pentesting, reverse engineering, and all things related to cybersecurity.
 - **🎮 Gamer**: I love to unwind with some gaming.
 - **🏋️ Fitness Lover**: The gym is where I find balance and strength.
@@ -14,7 +14,6 @@ Hey there! I'm Sara Bilic, a 19-year-old cyber security student at Howest in Bru
 - **🦋 Social Butterfly**: I thrive on connecting and sharing good vibes with others.
 
 ### 🔧 Tech Stack:
-- **Languages**: Java, Python, C#, PHP
-- **Frameworks & Tools**: Vue.js, general web development technologies
-- **Cyber Security Focus**: Web pentesting, reverse engineering, and vulnerability analysis
+- **Languages**: Java, Python, C#, PHP, Ruby, C++
+- **Cyber Security Focus**: Web pentesting, reverse engineering, Blue-teaming, and vulnerability analysis
 
